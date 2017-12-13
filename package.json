@@ -1,5 +1,5 @@
 {
-  "name": "express-boilerplate",
+  "name": "express-boilerplate-hacktiv8",
   "version": "1.0.0",
   "description": "A boilerplate for Express",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azhariemuhammad/express-boilerplate.git"
+    "url": "git+https://github.com/azhariemuhammad/express-boilerplate-hacktiv8"
   },
   "keywords": [
     "Express"
@@ -16,9 +16,9 @@
   "author": "Azharie",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/azhariemuhammad/express-boilerplate/issues"
+    "url": "https://github.com/azhariemuhammad/express-boilerplate-hacktiv8/issues"
   },
-  "homepage": "https://github.com/azhariemuhammad/express-boilerplate#readme",
+  "homepage": "https://github.com/azhariemuhammad/express-boilerplate-hacktiv8#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "cors": "^2.8.4",
